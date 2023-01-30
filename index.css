@@ -1,0 +1,349 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css2?family=Sofia+Sans+Condensed:wght@100;200&display=swap');
+
+.body{
+    font-family: 'Roboto';
+}
+
+.header{
+background-color:#2874F0;
+white-space:100%;
+margin: -50px 8px -8px -8px;
+height: 57px;
+width:1537px;
+position:relative;
+}
+
+.fk{
+color:white;
+margin-left: 188px;
+margin-bottom:30px;
+margin-top:50px;
+display:block;
+font-family: 'Roboto';
+
+}
+
+.fkp{
+color:white;
+margin-left:188px;
+margin-top:-28px;
+margin-bottom: 30px;
+}
+
+.search{
+display: inline-block;
+box-sizing: border-box;
+line-height: 20px;
+margin-left:280px;
+margin-top:-40px;
+position: absolute;
+}
+
+.textbox{
+border-color: black;
+width:570px;
+position:absolute;
+border:none;
+height: 35px;
+}
+
+.button{
+background-image: urL("https://www.citypng.com/public/uploads/preview/download-blue-search-icon-button-png-11640084027s0fkuhz2lb.png");
+line-height:inherit;
+cursor:pointer;
+width:50px;
+background-position: 5px;
+background-repeat: no-repeat;
+background-size: 20px;
+background-color: transparent;
+margin-left:815px;
+margin-top:-30px;
+border:none;
+position: absolute;
+}
+
+.login-btn{
+background-color:white;
+color:#2874F0;
+border:none;
+width:120px;
+margin-left: 900px;
+margin-top: -53px;
+position: absolute;
+height: 30px;
+font-weight:bold;
+letter-spacing:0.1em;
+font-family: 'Roboto';	
+}
+
+.seller{
+color: white;
+margin-left: 1057px;
+margin-top:-46px;
+position: absolute;
+font-family:'Roboto';
+font-size: 16px;
+}
+
+.dropdown{
+margin-left:1215px;
+margin-top:-46px;
+position:absolute;
+display:inline-block;
+}
+
+.dropdown-btn{
+background-color:#2874F0;
+border:none;
+color:white;
+font-family:'Roboto';
+font-size: 16px;
+font-weight:bold;
+}
+
+.dropdown-content a{
+text-decoration:none;
+color:black;
+padding:20px 20px 0px;
+display:block;
+min-width:200px;
+margin-left:-40px;
+}
+
+.dropdown-content{
+display:none;
+color:black;
+background-color:white;
+margin-left:-60px;
+box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+z-index: 1;
+padding: 10px;
+
+}
+
+.dropdown:hover .dropdown-content{
+display:block;
+}
+
+.dropdown-content a:hover{
+background-color:f2f2f2;
+}
+
+.V3C5bO{
+margin-left:1320px;
+margin-top: -43px;
+position:absolute;
+height:16px;
+width:16px;
+}
+
+.cart{
+margin-left:1343;
+margin-top:-43px;
+position:absolute;
+font-family: 'Roboto';
+font-size:15px;
+color:white;
+}
+
+.img-head{
+margin-left:10px;
+display:block;
+}
+
+.head-items{
+font-family:'Roboto';
+font-size:14px;
+margin-top:0px;
+}
+
+.head-content{
+    font-family:'Roboto';
+    font-weight: 600;
+    line-height: 30px;
+    margin-top: 100px;
+    font-size: 14px;
+}
+
+.obj1{
+    margin-left:135px;
+}
+.obj1 img{
+    width:70px;
+    position: absolute;
+    margin-top:-85px;
+}
+
+.gro{
+    margin-left: 10px;
+    max-width: 0px;
+    position: absolute;
+    margin-top: -15px;
+}
+
+.gro:hover{
+    color:#2874F0;
+    cursor:pointer;
+    display: block;
+}
+
+.obj2{
+    margin-left: 255px;
+    margin-top:-83px;
+    position:absolute;
+}
+
+.obj2 img{
+    width: 70px;
+    display: block;   
+}
+
+.mob{
+    margin-left: 10px;
+}
+
+.mob:hover{
+    color:#2874F0;
+    cursor: pointer;
+}
+
+.obj3{
+    margin-left: 370px;
+    margin-top:-83px;
+    position:absolute;
+}
+
+.obj3 img{
+    width:70px;
+    display:block;
+    margin-top:-3px;
+}
+
+.fas{
+    margin-left: 10px;
+    margin-top: 3px;
+}
+
+.fas:hover{
+    color:#2874F0;
+    cursor: pointer;
+}
+
+.obj4{
+    margin-left:490px;
+    margin-top:-83px;
+    position:absolute;
+    font-size: 14px;
+}
+
+.obj4 img{
+    width: 70px;
+}
+
+.elec:hover{
+    color: #2874F0;
+    cursor:pointer;
+}
+
+
+.obj5{
+    margin-left:610px;
+    margin-top:-83px;
+    position: absolute;
+}
+
+.obj5 img{
+    width: 70px;
+}
+
+.home:hover{
+    color:#2874F0;
+    cursor:pointer;
+}
+
+.home{
+    margin-left:20px;
+}
+
+.obj6{
+    margin-left:730px;
+    margin-top:-83px;
+    position: absolute;
+}
+
+.obj6 img{
+    width: 70px;
+}
+
+.appli:hover{
+    color:#2874F0;
+    cursor: pointer;
+}
+
+
+.obj7{
+    margin-left:850px;
+    margin-top:-83px;
+    position: absolute;
+}
+
+.obj7 img{
+    width: 70px;
+}
+
+.tra:hover{
+    color:#2874F0;
+    cursor: pointer;
+}
+
+.tra{
+    margin-left: 17px;
+}
+
+.obj8{
+    margin-left:970px;
+    margin-top:-83px;
+    position: absolute;
+}
+
+.obj8 img{
+    width: 70px;
+}
+
+.top:hover{
+    color:#2874F0;
+    cursor: pointer;
+}
+
+
+.obj9{
+    margin-left:1120px;
+    margin-top:-83px;
+    position: absolute;
+}
+
+.obj9 img{
+    width: 70px;
+}
+
+.bea:hover{
+    color:#2874F0;
+    cursor: pointer;
+}
+
+
+.obj10{
+    margin-left:1290px;
+    margin-top:-83px;
+    position: absolute;
+}
+
+.obj10 img{
+    width: 70px;
+}
+
+.two:hover{
+    color:#2874F0;
+    cursor: pointer;
+}
